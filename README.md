@@ -1,5 +1,5 @@
 # 文王六十四卦金钱卦模拟器
-# Wen Wang 64 Hexagrams Coin Divination Simulator
+# Wen Wang 64gua Simulator
 
 > 一个基于传统金钱卦起卦方式制作的 Windows 模拟程序。  
 > A Windows simulator based on the traditional Chinese coin divination method.
